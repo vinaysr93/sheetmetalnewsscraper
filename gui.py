@@ -6,6 +6,7 @@ from news import News
 
 window = tk.Tk()
 window.title(" Sheet Metal News Scraper")
+window.iconbitmap('./news scraper.ico')
 def internet_connection(url='http://www.google.com/', timeout=3):
 
 
