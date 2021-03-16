@@ -4,5 +4,5 @@ A small widget that can scrape the most recent articles from Fractory.com and Th
 
 Future Update: Trying to wrap it as an executable file so that it can be installed in Windows OS and can be used by everyone
 
-Update: Created a .exe file so that windows users can use this.
+Update: Created a .exe file so that windows users can use this. Need to download gui.exe along with news scraper.ico in the same directory
 ![Capture](https://user-images.githubusercontent.com/8091212/103474328-d5298c80-4dc8-11eb-8dcf-665e52ea5750.JPG)
